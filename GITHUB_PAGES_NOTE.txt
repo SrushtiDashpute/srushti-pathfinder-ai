@@ -1,0 +1,1 @@
+GitHub Pages version: upload all files in this folder to the root of your repository. index.html must be in the repository root. This version uses relative links so all pages work under /srushti-pathfinder-ai/. Real AI requires an external backend; do not put an API key in GitHub Pages.
